@@ -1,23 +1,35 @@
 .header{
  background-image: url("https://lh3.googleusercontent.com/anTT-Af4YhfU8TeZB3yj46K9fvTt8OY8aOHoZaxRFCCKjolsMoSnjNdSsmiams32a4tk43vzEUAsRLDK2VdLPBFlM4cTH4L6oDK_u3wO9nI8rsU341YkM2Is1rvQezGtfPxmmTriSkBBWsZOgOmEkD3l0SluMk1EnCbIqrU3jOq9MnbRH0Ayljrw-worcFNPOtCX1LNtf2RbDkj1pz0SvBjLGDFQb55H9_yRkYiA1MwYj-D4i2R_sLooR51wqUHCtzpbhiYG0wDtEh4MEem4R_AMh32rF5TISp1Wctz9dfj9B__3dvCrbYXS-Ga93HeiXsxnTUJpN3VUxzMCMBM-oBIhfFVFoBRjxCqSee4oNtxA11PymFSZrEZ-w2yZqe3i08UED8OUE6gIrJGQlAT0EuUgjgvHd-cYIJ4qgQKDRr7nvfFMX4zPMNIPCRc9X70O_A5A_DiGX2E94ruXNS6dImqyNnXq9O_br7j4LT4Jqtx6jP4tDvXi8vSFYGlu4Yq5h0ID7LVCGMc8v0qAjThw4LuNL_w7NPM3156TfiQjY_KuZkh5yZgqBiino3e0Rb8UYzlmJY2-WO30nbZ6buWLONvK_WTgMvZ6qKjr37UDkxilyrh3nopw8xv3UIm7A165C_ARiALGngpdneUJEQXqMuf3FEHa1-y3NdV3l-xblxVs8_ZmR7vFcutX=w2502-h1668-no");
- width: 3000px;
+ width: 100%;
  height: 500px;
+}
+
+.jumbotron{
+    background: rgba(247, 247, 222, 0.2);
 }
 
 .portfolio{
- width: 3000px;
+ width: 100%;
  height: 500px;
- background: rgb(0, 0, 0);
+ background: rgb(25, 25, 26);
+ color: white;
 }
 
 .about{
- width: 3000px;
+ width: 100%;
  height: 500px;
- background: rgb(223, 223, 174);
+ background: rgb(247, 247, 222);
 }
 
 .resume{
- width: 3000px;
+ width: 100%;
  height: 500px;
- background: rgb(194, 155, 194);
+ background: rgb(25, 25, 26);
+ color: white;
+}
+
+.special_interests{
+ width: 100%;
+ height: 500px;
+ background: rgb(247, 247, 222); 
 }
