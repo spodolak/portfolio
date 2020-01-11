@@ -15,7 +15,7 @@ This is a basic HTML and CSS template for a professional portfolio landing page.
 * Open index.html file in your browser of choice to preview site
 
 ## Link to GitHub Pages
-[My Portfolio Landing Page](https://github.com/spodolak/portfolio)
+[My Portfolio Landing Page](https://spodolak.github.io/portfolio/)
 
 ### License
 
