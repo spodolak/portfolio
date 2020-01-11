@@ -12,8 +12,9 @@ body {
 }
 
 .jumbotron{
-	background: rgba(247, 247, 222, 0.3);
+	background: rgba(247, 247, 222, 0);
 	text-align: center;
+	font-size: 1000;
 }
 
 .text_container{
