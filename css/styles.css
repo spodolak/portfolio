@@ -1,17 +1,27 @@
+body {
+	background: url(https://lh3.googleusercontent.com/anTT-Af4YhfU8TeZB3yj46K9fvTt8OY8aOHoZaxRFCCKjolsMoSnjNdSsmiams32a4tk43vzEUAsRLDK2VdLPBFlM4cTH4L6oDK_u3wO9nI8rsU341YkM2Is1rvQezGtfPxmmTriSkBBWsZOgOmEkD3l0SluMk1EnCbIqrU3jOq9MnbRH0Ayljrw-worcFNPOtCX1LNtf2RbDkj1pz0SvBjLGDFQb55H9_yRkYiA1MwYj-D4i2R_sLooR51wqUHCtzpbhiYG0wDtEh4MEem4R_AMh32rF5TISp1Wctz9dfj9B__3dvCrbYXS-Ga93HeiXsxnTUJpN3VUxzMCMBM-oBIhfFVFoBRjxCqSee4oNtxA11PymFSZrEZ-w2yZqe3i08UED8OUE6gIrJGQlAT0EuUgjgvHd-cYIJ4qgQKDRr7nvfFMX4zPMNIPCRc9X70O_A5A_DiGX2E94ruXNS6dImqyNnXq9O_br7j4LT4Jqtx6jP4tDvXi8vSFYGlu4Yq5h0ID7LVCGMc8v0qAjThw4LuNL_w7NPM3156TfiQjY_KuZkh5yZgqBiino3e0Rb8UYzlmJY2-WO30nbZ6buWLONvK_WTgMvZ6qKjr37UDkxilyrh3nopw8xv3UIm7A165C_ARiALGngpdneUJEQXqMuf3FEHa1-y3NdV3l-xblxVs8_ZmR7vFcutX=w2502-h1668-no) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
 .header{
-	background-image: url("https://lh3.googleusercontent.com/anTT-Af4YhfU8TeZB3yj46K9fvTt8OY8aOHoZaxRFCCKjolsMoSnjNdSsmiams32a4tk43vzEUAsRLDK2VdLPBFlM4cTH4L6oDK_u3wO9nI8rsU341YkM2Is1rvQezGtfPxmmTriSkBBWsZOgOmEkD3l0SluMk1EnCbIqrU3jOq9MnbRH0Ayljrw-worcFNPOtCX1LNtf2RbDkj1pz0SvBjLGDFQb55H9_yRkYiA1MwYj-D4i2R_sLooR51wqUHCtzpbhiYG0wDtEh4MEem4R_AMh32rF5TISp1Wctz9dfj9B__3dvCrbYXS-Ga93HeiXsxnTUJpN3VUxzMCMBM-oBIhfFVFoBRjxCqSee4oNtxA11PymFSZrEZ-w2yZqe3i08UED8OUE6gIrJGQlAT0EuUgjgvHd-cYIJ4qgQKDRr7nvfFMX4zPMNIPCRc9X70O_A5A_DiGX2E94ruXNS6dImqyNnXq9O_br7j4LT4Jqtx6jP4tDvXi8vSFYGlu4Yq5h0ID7LVCGMc8v0qAjThw4LuNL_w7NPM3156TfiQjY_KuZkh5yZgqBiino3e0Rb8UYzlmJY2-WO30nbZ6buWLONvK_WTgMvZ6qKjr37UDkxilyrh3nopw8xv3UIm7A165C_ARiALGngpdneUJEQXqMuf3FEHa1-y3NdV3l-xblxVs8_ZmR7vFcutX=w2502-h1668-no");
 	width: 100%;
-	height: 300px;
+	height: 250px;
 }
 
 .jumbotron{
-	background: rgba(247, 247, 222, 0);
+	background: rgba(247, 247, 222, 0.3);
+	text-align: center;
 }
 
 .text_container{
 	margin: 25px;
-	padding: 25px;
+	padding-top: 12px;
+	padding-right: 25px;
+	padding-left: 25px;
+
 }
 
 .text_yellow{
@@ -37,7 +47,7 @@
 .about{
 	width: 100%;
 	height: 450px;
-	background: rgba(247, 247, 222,0.20);
+	background: rgba(252, 252, 252, 0.65);
 }
 
 #profile_photo{
@@ -54,7 +64,7 @@
 .special_interests{
 	width: 100%;
 	height: 450px;
-	background: rgba(247, 247, 222,0.20);
+	background: rgba(250, 250, 250, 0.65);
 }
 
 .special_interests img{
